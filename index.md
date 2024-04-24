@@ -8,15 +8,14 @@ layout: homepage
 I'm a master student at Key Laboratory of Cyberspace Security Defense, Institute of Information Engineering, CAS,
 <!-- 's <a href="https://med.nyu.edu/" target="_blank"> Grossman School of Medicine</a> -->
 <!-- , specifically within the <a href="https://med.nyu.edu/research/sackler-institute-graduate-biomedical-sciences/" target="_blank"> Vilcek institute of Biomedical Sciences</a> and the Department of <a href="https://med.nyu.edu/departments-institutes/population-health/" target="_blank"> Population Health</a>. Under the mentorship of Prof.  -->
-working under the mentorship of Prof.<a href="http://hourui-arch.net/" target="_blank"> Rui Hou</a>. My research lies at the intersection of computer architecture, machine learning, and security, with a focus on leveraging advanced computing architectures to develop machine learning applications for security-critical scenarios. 
+working under the mentorship of Prof.<a href="http://hourui-arch.net/" target="_blank"> **Rui Hou** </a>. Before that, I obtained my Bachelor's degree with major in Software Engineering from the School of Software at Shandong University in 2022. 
 
-Prior to that, I received my undergraduate degree in Software Engineering from Shandong University. 
+My research lies at the intersection of computer architecture, machine learning, and security, with a focus on leveraging advanced computing architectures to develop machine learning applications for security-critical scenarios. 
 
 <!-- 
 I am an alumnus of the <a href="https://opencasestudies.github.io/" target="_blank"> Open Case Study Project</a> at <a href="https://www.jhsph.edu/" target="_blank"> the Bloomberg School of Public Health </a> of <a href="https://www.jhu.edu/" target="_blank"> the Johns Hopkins University</a>. -->
 
 I am looking for phd position in 2025 fall!
-
 
 ## Research Interests
 - **Adversarial Machine Learning:** Investigating strategies to mitigate the vulnerabilities of machine learning models against adversarial attacks, ensuring their robustness and reliability in security-sensitive applications.
