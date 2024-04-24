@@ -15,7 +15,7 @@ My research lies at the intersection of computer architecture, machine learning,
 <!-- 
 I am an alumnus of the <a href="https://opencasestudies.github.io/" target="_blank"> Open Case Study Project</a> at <a href="https://www.jhsph.edu/" target="_blank"> the Bloomberg School of Public Health </a> of <a href="https://www.jhu.edu/" target="_blank"> the Johns Hopkins University</a>. -->
 
-I am looking for phd position in 2025 fall!
+**I am looking for phd position in 2025 fall!**
 
 ## Research Interests
 - **Adversarial Machine Learning:** Investigating strategies to mitigate the vulnerabilities of machine learning models against adversarial attacks, ensuring their robustness and reliability in security-sensitive applications.
