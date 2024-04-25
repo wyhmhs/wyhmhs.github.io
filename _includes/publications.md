@@ -3,6 +3,31 @@
 <div class="publications">
 <ol class="bibliography">
 
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/Garrison_overview.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">DAC</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://61dac.conference-program.com/presentation/?id=RESEARCH018&sess=sess126">Garrison: A High-Performance GPU-Accelerated Inference System for Adversarial Ensemble Defense</a></div>
+    <div class="author"><strong>Yan Wang<strong>, Xingbin Wang, Zechao Lin, Yulan Su, Sisi Zhang, Rui Hou, Dan Meng</div>
+    <div class="periodical"><em>Design Automatic Conference<strong>(DAC)</strong>, June. 2024.</em></div>
+    <!-- <div class="links"> -->
+      <!-- <a href="https://ieeexplore.ieee.org/document/10502340" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> -->
+      <!-- <a href="https://github.com/Hanchao-Zhang/K-Tensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+      <!-- <a href="https://dblp.uni-trier.de/rec/conf/cvpr/LiuSLSS20.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
+      <!-- <strong><i style="color:#7b5aa6">arXiv.org</i></strong> -->
+    <!-- </div> -->
+  </div>
+</div>
+</li>
+
+
+
 <li>
 <div class="pub-row">
 
@@ -24,6 +49,7 @@
   </div>
 </div>
 </li>
+
   
 <br>
 
