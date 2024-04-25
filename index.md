@@ -29,6 +29,8 @@ I am an alumnus of the <a href="https://opencasestudies.github.io/" target="_bla
 
 {% include_relative _includes/publications.md %}
 
+
+
 ## Resources
 - <a href="https://github.com/Hanchao-Zhang/LeetCode-Prep/blob/main/main.pdf" target="_blank">*A Coding Question Prep*</a> by Hanchao Zhang
 - <a href="https://github.com/Hanchao-Zhang/LeetQuant-Note/blob/main/Prep/Quant%20Research.pdf" target="_blank">*A Quantatitive Research Interview Prep*</a> by Hanchao Zhang
