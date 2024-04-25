@@ -14,9 +14,9 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://ieeexplore.ieee.org/document/10502340">EnsGuard: A Novel Acceleration Framework for Adversarial Ensemble Learning</a></div>
+    <div class="title"><a href="https://ieeexplore.ieee.org/document/10502340">Garrison: A High-Performance GPU-Accelerated Inference System for Adversarial Ensemble Defense</a></div>
     <div class="author">Xingbin Wang*, <strong>Yan Wang*(equal contribution)</strong>, Yulan Su, Sisi Zhang, Dan Meng, Rui Hou</div>
-    <div class="periodical"><em>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems<strong>(TCAD)</strong>, April. 2024.</em></div>
+    <div class="periodical"><em>Design Automatic Conference<strong>(DAC)</strong>, June. 2024.</em></div>
   </div>
 </div>
 </li>
