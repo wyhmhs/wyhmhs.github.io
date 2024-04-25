@@ -24,16 +24,14 @@ I am an alumnus of the <a href="https://opencasestudies.github.io/" target="_bla
 
 
 ## News
-- **[April. 2024]** Yan was selected to join <a href="https://www.dac.com/Attend/Students-Scholarships/Young-Student-Fellow-Program" target="_blank">*DAC young fellow program* at DAC 2024</a>! 
+- **[April. 2024]** Yan was selected to join <a href="https://www.dac.com/Attend/Students-Scholarships/Young-Student-Fellow-Program" target="_blank">*DAC young fellow program*</a> at DAC 2024! 
 
 
-<!-- {% include_relative _includes/publications.md %} -->
+{% include_relative _includes/publications.md %}
 
-{% include_relative _includes/projects.md %}
+<!-- {% include_relative _includes/projects.md %} -->
 
-{% include_relative _includes/talks.md %}
-
-
+<!-- {% include_relative _includes/talks.md %} -->
 
 <!-- ## Collaboration
 
