@@ -24,6 +24,7 @@ I am an alumnus of the <a href="https://opencasestudies.github.io/" target="_bla
 
 
 ## News
+- **[May. 2024]** Our work *FakeGuard: A Novel Accelerator Architecture for Deepfake Detection Networks* accepted to *Euro-Par 2024*! 
 - **[April. 2024]** Yan was selected to join <a href="https://www.dac.com/Attend/Students-Scholarships/Young-Student-Fellow-Program" target="_blank">*DAC Young Fellow program*</a> at DAC 2024! 
 
 
