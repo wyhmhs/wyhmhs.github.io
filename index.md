@@ -25,15 +25,14 @@ I am an alumnus of the <a href="https://opencasestudies.github.io/" target="_bla
 
 ## News
 - **[Dec. 2024]** Two papers co-authored by Yan accepted to ICASSP 2025!
-- **[Nov. 2024]** Yan received the Director's Special Scholarship from the Institute of Information Engineering, Chinese Academy of Sciences (top 0.5%), the highest honor at the institute!
-- **[Nov. 2024]** Yan received the National Scholarship for Graduate Students in China (top 0.2%)! 
-- **[Oct. 2024]** My work *ROBIN: A Novel Framework for Accelerating Robust Multi-Variant Training* accepted to ASP-DAC 2025! See you in Tokyo!
+- **[Nov. 2024]** Yan received **the Dean's Special Scholarship of the Institute of Information Engineering, Chinese Academy of Sciences (top 0.5%)**, the highest honor at the institute!
+- **[Nov. 2024]** Yan received **the National Scholarship for Graduate Students in China (top 0.2%)**! 
+- **[Oct. 2024]** Our work *ROBIN: A Novel Framework for Accelerating Robust Multi-Variant Training* accepted to *ASP-DAC 2025*! See you in Tokyo!
 - **[May 2024]** Our work *FakeGuard: A Novel Accelerator Architecture for Deepfake Detection Networks* accepted to *Euro-Par 2024*! 
 - **[Apr. 2024]** Yan was selected to join <a href="https://www.dac.com/Attend/Students-Scholarships/Young-Student-Fellow-Program" target="_blank">*DAC Young Fellow program*</a> at DAC 2024! 
 
 
 {% include_relative _includes/publications.md %}
-
 
 
 ## Resources
@@ -42,5 +41,13 @@ I am an alumnus of the <a href="https://opencasestudies.github.io/" target="_bla
 - <a href="https://yuhangzhou88.github.io/ESL_Solution/" target="_blank">*A Solution Manual of The Elements of Statistical Learning*</a> by Yuhang Zhou 
 
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-D278NKEDD9"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-D278NKEDD9');
+</script>
 
