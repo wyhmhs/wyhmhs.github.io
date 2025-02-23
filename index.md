@@ -15,7 +15,7 @@ My research lies at the intersection of computer architecture, machine learning,
 <!-- 
 I am an alumnus of the <a href="https://opencasestudies.github.io/" target="_blank"> Open Case Study Project</a> at <a href="https://www.jhsph.edu/" target="_blank"> the Bloomberg School of Public Health </a> of <a href="https://www.jhu.edu/" target="_blank"> the Johns Hopkins University</a>. -->
 
-**I am looking for phd position in 2025 fall!**
+**I am looking for a phd position in the field of AI systems starting from 2025 fall!**
 
 ## Research Interests
 - **Machine Learning Systems:** Exploring the design and optimization of efficient machine learning inference/training systems, particularly for resource-constrained environments and real-time applications.
