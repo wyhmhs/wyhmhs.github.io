@@ -18,8 +18,8 @@ I am an alumnus of the <a href="https://opencasestudies.github.io/" target="_bla
 **I am looking for phd position in 2025 fall!**
 
 ## Research Interests
+- **Machine Learning Systems:** Exploring the design and optimization of efficient machine learning inference/training systems, particularly for resource-constrained environments and real-time applications.
 - **Adversarial Machine Learning:** Investigating strategies to mitigate the vulnerabilities of machine learning models against adversarial attacks, ensuring their robustness and reliability in security-sensitive applications.
-- **Machine Learning Inference Systems:** Exploring the design and optimization of efficient and secure machine learning inference systems, particularly for resource-constrained environments and real-time applications.
 - **LLM Security:** Delving into the security challenges posed by large language models (LLMs), developing techniques to safeguard these powerful AI models from misuse and malicious exploitation.
 
 
