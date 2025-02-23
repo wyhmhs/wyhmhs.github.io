@@ -51,7 +51,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://tsys.jp/aspdac/2025/program/program_abst.html#7E-1">Robin: A Novel Framework for Accelerating Robust Multi-Variant Training</a></div>
-    <div class="author">Yan Wang, Xingbin Wang, Yulan Su, Sisi Zhang, Zechao Lin, Dan Meng, Rui Hou</div>
+    <div class="author"><strong>Yan Wang<strong>, Xingbin Wang, Yulan Su, Sisi Zhang, Zechao Lin, Dan Meng, Rui Hou</div>
     <div class="periodical"><em>Asia and South Pacific Design Automation Conference (ASP-DAC), January. 2025.</em></div>
   </div>
 </div>
