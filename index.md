@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I'm a PhD student at **Institute for Computing System Architecture (ICSA), School of Informatics, University of Edinburgh**, working under the mentorship of <a href="https://jingjieli.me/" target="_blank"> **Jingjie Li** </a> and <a href="https://homepages.inf.ed.ac.uk/ppatras/" target="_blank"> **Paul Patras** </a>. Before that, I was a master student at State Key Laboratory of Cyberspace Security Defense, Institute of Information Engineering, Chinese Academy of Sciences (CAS), working under the mentorship of Prof.<a href="http://hourui-arch.net/" target="_blank"> **Rui Hou** </a>. I obtained my Bachelor's degree with major in Software Engineering from the School of Software at Shandong University in 2022. 
+I'm a PhD student at Institute for Computing System Architecture (ICSA), School of Informatics, University of Edinburgh, working under the mentorship of <a href="https://jingjieli.me/" target="_blank"> **Jingjie Li** </a> and <a href="https://homepages.inf.ed.ac.uk/ppatras/" target="_blank"> **Paul Patras** </a>. Before that, I was a master student at State Key Laboratory of Cyberspace Security Defense, Institute of Information Engineering, Chinese Academy of Sciences (CAS), working under the mentorship of Prof.<a href="http://hourui-arch.net/" target="_blank"> **Rui Hou** </a>. I obtained my Bachelor's degree with major in Software Engineering from the School of Software at Shandong University in 2022. 
 
 My research lies at the intersection of computer architecture, machine learning, and security, with a focus on leveraging advanced computing architectures to develop machine learning applications for security-critical scenarios. 
 
