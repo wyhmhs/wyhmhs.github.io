@@ -21,7 +21,7 @@ My research lies at the intersection of computer architecture, machine learning,
 - **[Nov. 2024]** Yan received **the National Scholarship for Graduate Students in China (top 0.2%)**! 
 - **[Oct. 2024]** Our work *ROBIN: A Novel Framework for Accelerating Robust Multi-Variant Training* accepted to *ASP-DAC 2025*! See you in Tokyo!
 - **[May 2024]** Our work *FakeGuard: A Novel Accelerator Architecture for Deepfake Detection Networks* accepted to *Euro-Par 2024*! 
-- **[Apr. 2024]** Yan was selected to join <a href="https://www.dac.com/Attend/Students-Scholarships/Young-Student-Fellow-Program" target="_blank">*DAC Young Fellow program*</a> at DAC 2024! 
+- **[Apr. 2024]** Yan was selected to join **DAC Young Fellow program** at DAC 2024! 
 
 
 {% include_relative _includes/publications.md %}
