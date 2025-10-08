@@ -15,7 +15,7 @@ My research lies at the intersection of computer architecture, machine learning,
 
 
 ## News
-- **[Oct. 2025]** Yan admitted to the PhD program at the School of Informatics, University of Edinburgh, fully funded by the EPSRC DLA Scholarship!
+- **[Oct. 2025]** Yan admitted to the PhD program at the School of Informatics, University of Edinburgh, fully funded by the **EPSRC DLA Scholarship**!
 - **[Dec. 2024]** Two papers co-authored by Yan accepted to ICASSP 2025!
 - **[Nov. 2024]** Yan received **the Dean's Special Scholarship of the Institute of Information Engineering, Chinese Academy of Sciences (top 0.5%)**, the highest honor at the institute!
 - **[Nov. 2024]** Yan received **the National Scholarship for Graduate Students in China (top 0.2%)**! 
