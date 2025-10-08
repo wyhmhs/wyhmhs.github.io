@@ -5,10 +5,10 @@ layout: homepage
 ## About Me
 
 <!-- I'm a <a href="https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/biostatistics/" target="_blank"> Statistics</a> Ph.D. candidate at <a href="https://www.nyu.edu/" target="_blank"> New York University</a>, -->
-I'm a PhD student at Institute for Computing System Architecture (ICSA), School of Informatics, University of Edinburgh, working under the mentorship of Jingjie Li and Paul Patras. Before that, I was a master student at State Key Laboratory of Cyberspace Security Defense, Institute of Information Engineering, CAS,
+I'm a PhD student at Institute for Computing System Architecture (ICSA), School of Informatics, University of Edinburgh, working under the mentorship of <a href="https://jingjieli.me/" target="_blank"> **Jingjie Li** </a> and <a href="https://homepages.inf.ed.ac.uk/ppatras/" target="_blank"> **Paul Patras** </a>. Before that, I was a master student at State Key Laboratory of Cyberspace Security Defense, Institute of Information Engineering, CAS,
 <!-- 's <a href="https://med.nyu.edu/" target="_blank"> Grossman School of Medicine</a> -->
 <!-- , specifically within the <a href="https://med.nyu.edu/research/sackler-institute-graduate-biomedical-sciences/" target="_blank"> Vilcek institute of Biomedical Sciences</a> and the Department of <a href="https://med.nyu.edu/departments-institutes/population-health/" target="_blank"> Population Health</a>. Under the mentorship of Prof.  -->
-working under the mentorship of Prof.<a href="http://hourui-arch.net/" target="_blank"> **Rui Hou** </a>. Before that, I obtained my Bachelor's degree with major in Software Engineering from the School of Software at Shandong University in 2022. 
+working under the mentorship of Prof.<a href="http://hourui-arch.net/" target="_blank"> **Rui Hou** </a>. I obtained my Bachelor's degree with major in Software Engineering from the School of Software at Shandong University in 2022. 
 
 My research lies at the intersection of computer architecture, machine learning, and security, with a focus on leveraging advanced computing architectures to develop machine learning applications for security-critical scenarios. 
 
