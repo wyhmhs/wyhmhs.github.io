@@ -30,7 +30,7 @@ My research lies at the intersection of computer architecture, machine learning,
 
 History loops in curious ways.
 My academic great-grand-advisor, <a href="https://en.wikipedia.org/wiki/Xia_Peisu" target="_blank"> **Dr. Xia Peisu** </a>, earned her PhD at the University of Edinburgh in 1950 and returned to China to build the nation’s first electronic computer.
-Now, seventy-five years later, I find myself at the same university — walking the same halls she once did.
+Now, seventy-five years later, I find myself in the same city—walking the same paths she once did.
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-D278NKEDD9"></script>
