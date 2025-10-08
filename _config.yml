@@ -6,13 +6,13 @@ title: Yan Wang
 # position: Master Student
 # subposition: Chair of the Chinese Student and Scholar Association (CSSA)
 # subposition_link: https://nyu-medicine-cssa.github.io
-affiliation: Chinese Academy of Sciences
-subaffiliation: Institute of Information Engineering
-affiliation_link: https://www.cas.cn/
-subaffiliation_link: http://www.iie.ac.cn/
-email: wangyan2022@iie.ac.cn
-address: 19 Shucun Road, Haidian District, Beijing, CN
-address_link: https://maps.app.goo.gl/2sj2hUv9rFcB77a3A
+affiliation: University of Edinburgh
+subaffiliation: School of Informatics
+affiliation_link: https://www.ed.ac.uk/
+subaffiliation_link: https://informatics.ed.ac.uk/
+email: yanw.arch@gmail.com
+address: Informatics Forum, 10 Crichton Street, Edinburgh, EH8 9AB, SCOTLAND
+address_link: https://maps.app.goo.gl/3n7UMHUmHrdnG7rCA
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -22,7 +22,7 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?user=sDH87fAAAAAJ
+google_scholar: https://scholar.google.com/citations?user=qGUdDV4AAAAJ
 # cv_link: assets/files/HanchaoZhangCV.pdf
 github_link: https://github.com/wyhmhs
 linkedin: https://www.linkedin.com
