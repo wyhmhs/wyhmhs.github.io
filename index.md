@@ -28,11 +28,13 @@ My current research focuses on security and privacy risks in tool-using LLM agen
 {% include_relative _includes/publications.md %}
 {% include_relative _includes/services.md %}
 
+<!--
 ## Fun Fact
 
 History loops in curious ways.
 My academic great-grand-advisor, <a href="https://en.wikipedia.org/wiki/Xia_Peisu" target="_blank"> **Dr. Xia Peisu** </a>, earned her PhD at the University of Edinburgh in 1950.
 Now, seventy-five years later, I find myself in the same city.
+-->
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-D278NKEDD9"></script>
