@@ -7,12 +7,11 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">MobiSys RSF</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">Toward Trustworthy Multi-Model Edge Intelligence</div>
+    <div class="title"><a href="https://dl.acm.org/doi/10.1145/3812835.3814817">Toward Trustworthy Multi-Model Edge Intelligence</a></div>
     <div class="author"><strong>Yan Wang</strong></div>
     <div class="periodical"><em>Rising Stars Forum, ACM International Conference on Mobile Systems, Applications, and Services (MobiSys), June. 2026.</em></div>
   </div>
@@ -23,12 +22,11 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/teaser_example.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">SCIS</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title">Never Compromise to Vulnerabilities: A Comprehensive Survey on AI Governance</div>
+    <div class="title"><a href="https://arxiv.org/abs/2508.08789v4">Never Compromise to Vulnerabilities: A Comprehensive Survey on AI Governance</a></div>
     <div class="author">Yuchu Jiang, Jian Zhao, Yuchen Yuan, Tianle Zhang, Yao Huang, Yanghao Zhang, <strong>Yan Wang</strong>, ..., Xuelong Li</div>
     <div class="periodical"><em>SCIENCE CHINA Information Sciences, accepted, 2026.</em></div>
   </div>
@@ -39,7 +37,6 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/EnsGuard.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">IEEE TCAD</abbr>
   </div>
 
@@ -56,7 +53,6 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/Garrison.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">DAC</abbr>
   </div>
 
@@ -76,7 +72,6 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/Robin.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ASP-DAC</abbr>
   </div>
 
