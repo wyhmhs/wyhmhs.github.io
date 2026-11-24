@@ -15,7 +15,7 @@ My current research focuses on security and privacy risks in tool-using LLM agen
 
 
 ## News
-- **[Jun. 2026]** Yan was selected as a **Rising Star** and received a Student Travel Grant at **ACM MobiSys 2026**.
+- **[Jun. 2026]** Yan was selected as a **Rising Star** and received a Student Travel Grant at **ACM MobiSys 2026**!
 - **[Oct. 2025]** Yan admitted to the PhD program at the School of Informatics, University of Edinburgh, fully funded by the **EPSRC DLA Scholarship**!
 - **[Dec. 2024]** Two papers co-authored by Yan accepted to ICASSP 2025!
 - **[Nov. 2024]** Yan received **the Dean's Special Scholarship of the Institute of Information Engineering, Chinese Academy of Sciences (top 0.5%)**, the highest honor at the institute!
