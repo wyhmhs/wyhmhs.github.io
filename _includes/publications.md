@@ -16,9 +16,9 @@
 </li>
 
 <li>
-  <div class="title"><a href="https://ieeexplore.ieee.org/document/10502340">EnsGuard: A Novel Acceleration Framework for Adversarial Ensemble Learning</a></div>
-  <div class="author">Xingbin Wang*, <strong>Yan Wang*</strong> (equal contribution), Yulan Su, Sisi Zhang, Dan Meng, Rui Hou</div>
-  <div class="periodical"><em>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), April 2024.</em></div>
+  <div class="title"><a href="https://tsys.jp/aspdac/2025/program/program_abst.html#7E-1">Robin: A Novel Framework for Accelerating Robust Multi-Variant Training</a></div>
+  <div class="author"><strong>Yan Wang</strong>, Xingbin Wang, Yulan Su, Sisi Zhang, Zechao Lin, Dan Meng, Rui Hou</div>
+  <div class="periodical"><em>Asia and South Pacific Design Automation Conference (ASP-DAC), January 2025.</em></div>
 </li>
 
 <li>
@@ -28,9 +28,9 @@
 </li>
 
 <li>
-  <div class="title"><a href="https://tsys.jp/aspdac/2025/program/program_abst.html#7E-1">Robin: A Novel Framework for Accelerating Robust Multi-Variant Training</a></div>
-  <div class="author"><strong>Yan Wang</strong>, Xingbin Wang, Yulan Su, Sisi Zhang, Zechao Lin, Dan Meng, Rui Hou</div>
-  <div class="periodical"><em>Asia and South Pacific Design Automation Conference (ASP-DAC), January 2025.</em></div>
+  <div class="title"><a href="https://ieeexplore.ieee.org/document/10502340">EnsGuard: A Novel Acceleration Framework for Adversarial Ensemble Learning</a></div>
+  <div class="author">Xingbin Wang*, <strong>Yan Wang*</strong> (equal contribution), Yulan Su, Sisi Zhang, Dan Meng, Rui Hou</div>
+  <div class="periodical"><em>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), April 2024.</em></div>
 </li>
 
 </ol>
