@@ -6,12 +6,8 @@ layout: homepage
 
 I'm a PhD student at Institute for Computing System Architecture (ICSA), School of Informatics, University of Edinburgh, working under the mentorship of <a href="https://jingjieli.me/" target="_blank"> **Jingjie Li** </a> and <a href="https://homepages.inf.ed.ac.uk/ppatras/" target="_blank"> **Paul Patras** </a>. Before that, I was a master student at State Key Laboratory of Cyberspace Security Defense, Institute of Information Engineering, Chinese Academy of Sciences (CAS), working under the mentorship of Prof.<a href="http://hourui-arch.net/" target="_blank"> **Rui Hou** </a>. I obtained my Bachelor's degree with major in Software Engineering from the School of Software at Shandong University in 2022.
 
-My current research focuses on security and privacy risks in tool-using LLM agents, including MCP ecosystems, prompt injection, and contextual privacy leakage. I also work on systems security for machine learning, with an emphasis on deployable and robust defenses.
-
 ## Research Interests
-- **LLM Agent Security & Privacy:** Security and privacy of tool-using LLM agents, especially MCP attack surfaces, prompt injection, and tool-channel leakage.
-- **Systems Security for ML:** Designing practical defenses and secure serving mechanisms for machine learning systems under real-world constraints.
-- **Adversarial Machine Learning:** Building and evaluating robust training/inference defenses against adaptive adversarial attacks.
+My research studies security and privacy risks in LLM agent systems, with a focus on contextual failures introduced by agents’ interactions with untrusted environments and how these failures affect users. My goal is to identify these risks and protect the boundary between people and the agents that act on their behalf. I measure how these failures arise in real-world deployments and design defenses that keep people in control of what their agents disclose and how they act. Previously, I worked on systems security for machine learning, with an emphasis on deployable and robust defenses.
 
 
 ## News
