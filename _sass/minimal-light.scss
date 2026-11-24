@@ -564,6 +564,18 @@ section {
   padding-bottom: 50px;
 }
 
+section ul {
+  padding-left: 1.2em;
+}
+
+section ul > li {
+  margin-bottom: 0.4em;
+}
+
+section ul > li:last-child {
+  margin-bottom: 0;
+}
+
 small {
   font-size: 11px;
 }
