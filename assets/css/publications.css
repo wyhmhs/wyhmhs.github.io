@@ -53,7 +53,7 @@ screen and (min-width: 480px) {
 }
 
 .publications {
-  margin-top: 2rem;
+  margin-top: 0;
 }
 
 .publications h1 {
@@ -88,29 +88,29 @@ screen and (min-width: 480px) {
 
 .publications ol.bibliography li {
   min-height: 0;
-  margin-bottom: 0.9rem;
-  padding: 0.15rem 0 0.9rem 0;
-  border-bottom: 1px solid rgba(130, 130, 130, 0.2);
+  margin: 0 0 1rem 0;
+  padding: 0;
 }
 
 .publications ol.bibliography li .title {
   font-weight: 700;
-  line-height: 1.35;
-  margin-bottom: 0.2rem;
+  line-height: 1.5;
+  margin: 0;
 }
 
 .publications ol.bibliography li .author {
-  margin-bottom: 0.1rem;
+  line-height: 1.5;
+  margin: 0;
 }
 
 .publications ol.bibliography li .periodical {
+  line-height: 1.5;
+  margin: 0;
   color: var(--global-text-color-light);
 }
 
 .publications ol.bibliography li:last-child {
-  border-bottom: none;
   margin-bottom: 0;
-  padding-bottom: 0;
 }
 
 .publications ol.bibliography li .author a {

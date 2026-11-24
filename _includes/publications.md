@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Selected Publications</h2>
+<h2 id="publications">Selected Publications</h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -20,7 +20,6 @@
   <div class="author">Xingbin Wang*, <strong>Yan Wang*</strong> (equal contribution), Yulan Su, Sisi Zhang, Dan Meng, Rui Hou</div>
   <div class="periodical"><em>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), April 2024.</em></div>
 </li>
-
 
 <li>
   <div class="title"><a href="https://dl.acm.org/doi/10.1145/3649329.3654810">Garrison: A High-Performance GPU-Accelerated Inference System for Adversarial Ensemble Defense</a></div>
